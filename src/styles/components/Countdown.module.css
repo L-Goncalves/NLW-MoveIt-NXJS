@@ -56,3 +56,42 @@
 .countdownButton:hover{
     background: var(--blue-dark);
 }
+
+.countdownButtonPause{
+    background: var(--blue-twitter);
+    color: var(--white);
+}
+
+.countdownButtonPause:hover{
+    background: var(--white);
+    color: var(--blue-twitter);
+}
+
+.countdownButtonQuit{
+    background: var(--red);
+    color: var(--white);
+}
+
+
+.countdownButtonQuit:hover{
+    background: var(--white);
+    color: var(--red);
+}
+.buttonContainer{
+    flex: 1;
+    display: flex;
+
+    
+}
+
+.buttonContainer > button{
+    margin: 1rem;
+    border-radius: 5px;
+    flex: 1;
+}
+
+.countdownButton:disabled{
+    background-color: var(--white);
+    color: var(--red);
+    cursor: not-allowed;
+}
