@@ -1,12 +1,17 @@
 import '../styles/global.css'
-import { ChallengesContext } from '../contexts/ChallengesContext'
+import { ChallengesContext, ChallengesProvider } from '../contexts/ChallengesContext'
+import { useState } from 'react'
 
 function MyApp({ Component, pageProps }) {
+
+  
   return (
 
-    <ChallengesContext.Provider value={'text'}>
-      <Component {...pageProps} />
-    </ChallengesContext.Provider>
+    <ChallengesProvider>
+       <Component {...pageProps} />
+    </ChallengesProvider>
+     
+  
   
   )
 }
