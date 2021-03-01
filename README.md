@@ -19,18 +19,18 @@ I learned about Hooks, ContextAPI, States and NextJS Concepts, I also did my fir
 How to run:
   ```
     git clone https://github.com/L-Goncalves/NLW-MoveIt-NXJS.git
-  ```
-   ```
+
+
     cd NLW-Moveit-NXJS
-  ```
+
   
-  ```
+ 
     yarn
-  ```
+
   
-   ```
+ 
     yarn dev
-  ```
+ 
     ```
 
 
