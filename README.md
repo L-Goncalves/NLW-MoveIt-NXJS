@@ -7,8 +7,9 @@ This app was made in an online event about reaching a Next Level in React.
 
 
 <img src="/readme-img/image.png" >
-    
 
+<img src="/readme-img/challenge.png" >
+    
      
 I learned about Hooks, ContextAPI, States and NextJS Concepts, I also did my first deploy with this
 
