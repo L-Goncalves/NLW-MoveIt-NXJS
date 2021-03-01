@@ -5,6 +5,7 @@ Move.it is an web app created with Next.JS and React which is about exercising a
 This app was made in an online event about reaching a Next Level in React.
 
 
+You can check it out here: https://moveit-next-six-jade.vercel.app/
 
 <img src="/readme-img/image.png" >
 
@@ -35,4 +36,3 @@ How to run:
    ```
 
 
-You can check it out here: https://moveit-next-six-jade.vercel.app/
