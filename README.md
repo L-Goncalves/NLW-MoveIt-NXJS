@@ -15,4 +15,10 @@ This app was made in an online event about reaching a Next Level in React.
      
 I learned about Hooks, ContextAPI, States and NextJS Concepts, I also did my first deploy with this
 
+
+How to run:
+  ```
+    git clone https://github.com/L-Goncalves/NLW-MoveIt-NXJS.git
+  ```
+
 You can check it out here: https://moveit-next-six-jade.vercel.app/
