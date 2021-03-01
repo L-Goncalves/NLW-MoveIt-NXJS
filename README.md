@@ -20,6 +20,9 @@ How to run:
   ```
     git clone https://github.com/L-Goncalves/NLW-MoveIt-NXJS.git
   ```
+   ```
+    cd NLW-Moveit-NXJS
+  ```
   
   ```
     npm install
@@ -28,5 +31,7 @@ How to run:
    ```
     yarn dev
   ```
+    ```
+
 
 You can check it out here: https://moveit-next-six-jade.vercel.app/
